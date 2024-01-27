@@ -1,3 +1,5 @@
+![logo](https://github.com/chaurasiasakshi/chaurasiasakshi/blob/main/bg.jpg)
+
 <h1 align="center">Hi 👋, I'm Sakshi Chaurasia</h1>
 <h3 align="center">Web Developer| UI/UX |Data Analytics |MEAN Stack</h3>
 <h4 align="center">Weaving the Web of Possibilities</h4>
