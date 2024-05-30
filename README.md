@@ -1,4 +1,4 @@
-![logo](https://github.com/chaurasiasakshi/chaurasiasakshi/blob/main/bg.jpg)
+![logo](https://github.com/chaurasiasakshi/chaurasiasakshi/blob/main/bgs.jpg)
 
 <h1 align="center">Hi 👋, I'm Sakshi Chaurasia</h1>
 <h3 align="center">Web Developer| UI/UX |Data Analytics |MEAN Stack</h3>
