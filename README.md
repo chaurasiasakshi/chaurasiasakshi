@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **EcoGrowers**
 
-- 🌱 I’m currently learning **MEAN Stack**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
-- 💬 Ask me about **HTML,CSS, PHP,Python, MEAN**
+- 💬 Ask me about **HTML,CSS, PHP,Python,Data Visualization**
 
 - 📫 How to reach me **sakshi144003@gmail.com**
 
